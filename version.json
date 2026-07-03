@@ -1,4 +1,31 @@
 {
-  "version": "2.0.3",
-  "url": "https://github.com/Mast3rToxic/Multitask/releases/latest/download/app.apk"
+    "app": "Multitool",
+    "channel": "stable",
+
+    "version": "2.0.3",
+    "build": 1,
+    "published": "2026-07-04",
+
+    "required": false,
+    "min_version": "2.0.3",
+
+    "compatibility": {
+        "min_android": 8,
+        "target_android": 16
+    },
+
+    "title": "Nueva actualización disponible",
+    "message": "Multitool 3.0.0 ya está disponible con una arquitectura completamente renovada.",
+
+    "changes": [
+        "Nueva arquitectura modular.",
+        "Sistema profesional de actualizaciones.",
+        "Calculadora optimizada.",
+        "Nuevo historial interactivo.",
+        "Preparación para futuros módulos."
+    ],
+
+    "download": "https://github.com/Mast3rToxic/Multitask/releases/download/v3.0.0/App.apk",
+
+    "release_notes": "https://github.com/Mast3rToxic/Multitask/releases/tag/v3.0.0"
 }
