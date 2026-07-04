@@ -2,12 +2,12 @@
     "app": "Multitool",
     "channel": "stable",
 
-    "version": "2.0.3",
+    "version": "3.0.0",
     "build": 1,
     "published": "2026-07-04",
 
     "required": false,
-    "min_version": "2.0.3",
+    "min_version": "3.0.0",
 
     "compatibility": {
         "min_android": 8,
@@ -22,10 +22,11 @@
         "Sistema profesional de actualizaciones.",
         "Calculadora optimizada.",
         "Nuevo historial interactivo.",
-        "Preparación para futuros módulos."
+        "Preparación para futuros módulos.",
+        "Ajuste de nuevos temas, UI, fuentes y acomodos de appScreen"
     ],
 
-    "download": "https://github.com/Mast3rToxic/Multitask/releases/download/v2.0.3/App.apk",
+    "download": "https://github.com/Mast3rToxic/Multitask/releases/download/V3.0.0/app.apk",
 
-    "release_notes": "https://github.com/Mast3rToxic/Multitask/releases/tag/v2.0.3"
+    "release_notes": "https://github.com/Mast3rToxic/Multitask/releases/tag/V3.0.0"
 }
