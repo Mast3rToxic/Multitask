@@ -2,9 +2,9 @@
     "app": "Multitool",
     "channel": "stable",
 
-    "version": "3.0.0",
+    "version": "3.0.1",
     "build": 1,
-    "published": "2026-07-04",
+    "published": "2026-07-05",
 
     "required": false,
     "min_version": "3.0.0",
@@ -14,19 +14,18 @@
         "target_android": 16
     },
 
-    "title": "Nueva actualización disponible",
-    "message": "Multitool 3.0.0 ya está disponible con una arquitectura completamente renovada.",
+    "title": "Actualización 3.0.1 disponible",
+    "message": "Multitool 3.0.1 ya está disponible con mejoras visuales, correcciones y una mejor experiencia en la calculadora.",
 
     "changes": [
-        "Nueva arquitectura modular.",
-        "Sistema profesional de actualizaciones.",
-        "Calculadora optimizada.",
-        "Nuevo historial interactivo.",
-        "Preparación para futuros módulos.",
-        "Ajuste de nuevos temas, UI, fuentes y acomodos de appScreen"
+        "Se agregó el historial de operación sobre el resultado en la calculadora.",
+        "Corrección de problemas de adaptación en distintos tamaños de pantalla.",
+        "Mejoras en la interfaz de usuario (UI).",
+        "Ajustes y refinamiento de los temas de la aplicación.",
+        "Corrección de errores menores y mejoras de estabilidad."
     ],
 
-    "download": "https://github.com/Mast3rToxic/Multitask/releases/download/V3.0.0/app.apk",
+    "download": "https://github.com/Mast3rToxic/Multitask/releases/download/V3.0.1/app.apk",
 
-    "release_notes": "https://github.com/Mast3rToxic/Multitask/releases/tag/V3.0.0"
+    "release_notes": "https://github.com/Mast3rToxic/Multitask/releases/tag/V3.0.1"
 }
